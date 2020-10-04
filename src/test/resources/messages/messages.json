@@ -1,0 +1,249 @@
+[ 
+	{
+		"product_type": "Apple",
+		"value": "0.10"
+	},
+	{
+		"product_type": "Papaya",
+		"value": "0.20",
+		"count": "5"
+	},
+	{
+		"product_type": "Mango",
+		"value": "1.30",
+		"count": "15"
+	},
+	{
+		"product_type": "Orange",
+		"value": "0.90",
+		"count": "20"
+	},
+	{
+		"product_type": "Guava",
+		"value": "0.70",
+		"count": "10"
+	},
+	{
+		"product_type": "Dates",
+		"value": "0.50",
+		"count": "3"
+	},
+	{
+		"product_type": "Apricot",
+		"value": "0.40",
+		"count": "6"
+	},
+	{
+		"product_type": "Banana",
+		"value": "0.25",
+		"count": "12"
+	},
+	{
+		"product_type": "Cherry",
+		"value": "0.05",
+		"count": "50"
+	},
+	{
+		"product_type": "Grapes",
+		"value": "0.12",
+		"count": "70"
+	},
+	{
+		"product_type": "Apple",
+		"value": "0.05",
+		"action": "ADD"
+	},
+	{
+		"product_type": "Papaya",
+		"value": "0.04",
+		"action": "ADD"
+	},
+	{
+		"product_type": "Mango",
+		"value": "0.08",
+		"action": "ADD"
+	},
+	{
+		"product_type": "Orange",
+		"value": "0.09",
+		"action": "SUBTRACT"
+	},
+	{
+		"product_type": "Guava",
+		"value": "0.02",
+		"action": "ADD"
+	},
+	{
+		"product_type": "Dates",
+		"value": "0.01",
+		"action": "MULTIPLY"
+	},
+	{
+		"product_type": "Apricot",
+		"value": "0.03",
+		"action": "ADD"
+	},
+	{
+		"product_type": "Banana",
+		"value": "0.02",
+		"action": "SUBTRACT"
+	},
+	{
+		"product_type": "Cherry",
+		"value": "0.01",
+		"action": "ADD"
+	},
+	{
+		"product_type": "Grapes",
+		"value": "0.02",
+		"action": "ADD"
+	},
+	{
+		"product_type": "Apple",
+		"value": "0.10"
+	},
+	{
+		"product_type": "Papaya",
+		"value": "0.20",
+		"count": "5"
+	},
+	{
+		"product_type": "Mango",
+		"value": "1.30",
+		"count": "15"
+	},
+	{
+		"product_type": "Orange",
+		"value": "0.90",
+		"count": "20"
+	},
+	{
+		"product_type": "Guava",
+		"value": "0.70",
+		"count": "10"
+	},
+	{
+		"product_type": "Dates",
+		"value": "0.50",
+		"count": "3"
+	},
+	{
+		"product_type": "Apricot",
+		"value": "0.40",
+		"count": "6"
+	},
+	{
+		"product_type": "Banana",
+		"value": "0.25",
+		"count": "12"
+	},
+	{
+		"product_type": "Cherry",
+		"value": "0.05",
+		"count": "50"
+	},
+	{
+		"product_type": "Grapes",
+		"value": "0.12",
+		"count": "70"
+	},
+	{
+		"product_type": "Apple",
+		"value": "0.05",
+		"action": "ADD"
+	},
+	{
+		"product_type": "Papaya",
+		"value": "0.04",
+		"action": "ADD"
+	},
+	{
+		"product_type": "Mango",
+		"value": "0.08",
+		"action": "ADD"
+	},
+	{
+		"product_type": "Orange",
+		"value": "0.09",
+		"action": "SUBTRACT"
+	},
+	{
+		"product_type": "Guava",
+		"value": "0.02",
+		"action": "ADD"
+	},
+	{
+		"product_type": "Dates",
+		"value": "0.01",
+		"action": "MULTIPLY"
+	},
+	{
+		"product_type": "Apricot",
+		"value": "0.03",
+		"action": "ADD"
+	},
+	{
+		"product_type": "Banana",
+		"value": "0.02",
+		"action": "SUBTRACT"
+	},
+	{
+		"product_type": "Cherry",
+		"value": "0.01",
+		"action": "ADD"
+	},
+	{
+		"product_type": "Grapes",
+		"value": "0.02",
+		"action": "ADD"
+	},
+	{
+		"product_type": "Apple",
+		"value": "0.10"
+	},
+	{
+		"product_type": "Papaya",
+		"value": "0.20",
+		"count": "5"
+	},
+	{
+		"product_type": "Mango",
+		"value": "1.30",
+		"count": "15"
+	},
+	{
+		"product_type": "Orange",
+		"value": "0.90",
+		"count": "20"
+	},
+	{
+		"product_type": "Guava",
+		"value": "0.70",
+		"count": "10"
+	},
+	{
+		"product_type": "Dates",
+		"value": "0.50",
+		"count": "3"
+	},
+	{
+		"product_type": "Apricot",
+		"value": "0.40",
+		"count": "6"
+	},
+	{
+		"product_type": "Banana",
+		"value": "0.25",
+		"count": "12"
+	},
+	{
+		"product_type": "Cherry",
+		"value": "0.05",
+		"count": "50"
+	},
+	{
+		"product_type": "Grapes",
+		"value": "0.12",
+		"count": "70"
+	}
+]

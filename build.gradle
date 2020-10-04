@@ -1,0 +1,38 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:2.0.3.RELEASE")
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+apply plugin: 'org.springframework.boot'
+
+bootJar {
+    baseName = 'message-processor'
+    version =  '1.0.0'
+}
+
+repositories {
+    mavenCentral()
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+dependencies {
+    compile "org.springframework.boot:spring-boot-starter-parent:2.0.3.RELEASE"
+    compile "org.springframework.boot:spring-boot-starter-web:2.0.3.RELEASE"
+    compile "org.springframework.boot:spring-boot-maven-plugin:2.0.3.RELEASE"
+    compile "org.springframework.boot:spring-boot-starter-logging:2.0.3.RELEASE"
+    compile "org.springframework.boot:spring-boot-starter-log4j:1.2.5.RELEASE"
+    compile "com.googlecode.json-simple:json-simple:1.1"
+    compile "org.apache.commons:commons-lang3:3.0"
+
+    testCompile "org.springframework.boot:spring-boot-starter-test:2.0.3.RELEASE"
+    testCompile('com.jayway.jsonpath:json-path')
+}

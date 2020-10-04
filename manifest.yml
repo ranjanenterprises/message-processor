@@ -1,0 +1,7 @@
+---
+applications:
+- name: message-processor
+  memory: 256M
+  instances: 1
+  host: message-processor
+  path: build/libs/message-processor-1.0.0.jar
